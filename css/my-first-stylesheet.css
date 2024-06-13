@@ -1,5 +1,5 @@
 body {
-  background-color: thistle;
+  background-color: #7a0000;
   border: 2px solid Gray;
   border-radius: 16px;
   font-family: impact;
@@ -13,6 +13,6 @@ body {
   padding-right: 24px;
 }
 html {
-  background: radial-gradient(circle, Red, Red 50%, LightRed 50%, Red);
+  background: #000000;
   background-size: 8px 8px;
 }
